@@ -1,0 +1,104 @@
+[
+	{
+		"Filme" : "A Ressaca",
+		"Ano" : "2009",
+		"Duração" : 100,
+		"Sinopse" : null
+	},
+	{
+		"Filme" : "Center Jenny",
+		"Ano" : "2013",
+		"Duração" : 53,
+		"Sinopse" : null
+	},
+	{
+		"Filme" : "El Camino: Um Filme de Breaking Bad",
+		"Ano" : "2019",
+		"Duração" : 122,
+		"Sinopse" : "Jesse Pinkman tenta superar o seu passado"
+	},
+	{
+		"Filme" : "Icarus",
+		"Ano" : "2017",
+		"Duração" : 121,
+		"Sinopse" : "Neste filme vencedor de um óscar, um ciclista norte-americano é envolvido num escandalo de dopagem em que está implicado um cientista russo a quem Putin quer silenciar."
+	},
+	{
+		"Filme" : "Ilha do Medo",
+		"Ano" : "2010",
+		"Duração" : 138,
+		"Sinopse" : "As pertubações de um agente federal põem em perigo a investigação de um desaparecimento de uma paciente de um hospital psiquiátrico para delinquentes"
+	},
+	{
+		"Filme" : "Inside Job",
+		"Ano" : "2010",
+		"Duração" : 120,
+		"Sinopse" : null
+	},
+	{
+		"Filme" : "Iron Man",
+		"Ano" : "2008",
+		"Duração" : 136,
+		"Sinopse" : "Tony Stark constroi uma armadura \"high tech\" e promete proteger o mundo enquanto Iron Man"
+	},
+	{
+		"Filme" : "Its Such a Beautiful Day",
+		"Ano" : "2012",
+		"Duração" : 61,
+		"Sinopse" : "Bill é um jovem cujas rotinas diárias, percepções e sonhos são ilustrados no ecrã através de múltiplas janelas de ecrã dividido, que por sua vez são narradas (por Don Hertzfeldt). O Narrador explica subtilmente que Bill sofre de uma perturbação de memória problemática, que interfere com a sua vida aparentemente mundana. Bill tem frequentemente reuniões com a sua ex-namorada sem nome e tinha sido recentemente encaminhado para uma clínica devido ao seu estado. Numa visita à clínica, o médico de Bill recomenda que Bill tenha um novo lote de medicamentos, uma vez que o seu recente tratamento não produziu quaisquer resultados positivos. Não se sabe se Bill tomou o novo medicamento, uma vez que se submete a uma experiência alucinatória na manhã seguinte e depois fica acordado na noite seguinte. No dia seguinte, Bill sofre mais alucinações, vendo monstros e rasgando a sua própria cabeça."
+	},
+	{
+		"Filme" : "La Casa Lobo",
+		"Ano" : "2018",
+		"Duração" : 75,
+		"Sinopse" : "María, uma jovem mulher, encontra refúgio numa casa no sul do Chile após escapar de uma seita de fanáticos religiosos alemães. Ela é recebida em casa por dois porcos, os únicos habitantes do lugar. Como num sonho, o universo da casa reage aos sentimentos de Maria. Os animais transformam-se lentamente em humanos, e a casa transforma-se num mundo de pesadelo. Inspirado no caso real de Colonia Dignidad, \"La Casa Lobo\" disfarça-se de um conto de fadas animado produzido pelo líder da seita, a fim de doutrinar os seus seguidores."
+	},
+	{
+		"Filme" : "Matrix",
+		"Ano" : "1999",
+		"Duração" : 136,
+		"Sinopse" : "Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia."
+	},
+	{
+		"Filme" : "O Culpado",
+		"Ano" : "2021",
+		"Duração" : 91,
+		"Sinopse" : "Durante um dia frenético repleto de revelações, um detetive destacado para operador de chmadas de emergência tenta salvar uma mulher desesperada"
+	},
+	{
+		"Filme" : "O Regresso de Johnny English",
+		"Ano" : "2011",
+		"Duração" : 102,
+		"Sinopse" : null
+	},
+	{
+		"Filme" : "Poesía sin fin",
+		"Ano" : "2016",
+		"Duração" : 128,
+		"Sinopse" : "Alejandro Jodorowsky, actualmente a viver em Santiago do Chile e a trabalhar na loja do seu pai, rejeita a pressão da sua família judia para entrar na faculdade de medicina e, em vez disso, prossegue uma carreira de poeta. Através da sua criação de bonecos, entra em contacto com um homem que lhe dá um estúdio como sua primeira residência. Nesta nova vida encontra artistas, poetas e intérpretes notáveis e amadores, entre eles Nicanor Parra, a quem insulta durante um mal-entendido sobre Stella Díaz Varín, a mulher que inspirou o seu poema \"A Víbora\"."
+	},
+	{
+		"Filme" : "Schumacher",
+		"Ano" : "2021",
+		"Duração" : 112,
+		"Sinopse" : "Este documentário com entrevistas exclusivas e imagens de arquivo traça um retrato intimo de Michael Schumacher"
+	},
+	{
+		"Filme" : "Shrek",
+		"Ano" : "2001",
+		"Duração" : 90,
+		"Sinopse" : "Era uma vez um pântano distante, onde vivia um ogro chamado Shrek. De repente, seu sossego é interrompido pela invasão de personagens de contos de fadas que foram banidos de seu reino pelo maldoso Lorde Farquaad. Determinado a salvar o lar das pobres criaturas, e também o dele, Shrek faz um acordo com Farquaad e parte para resgatar a princesa Fiona. Resgatar a princesa pode não ser nada comparado com seu segredo profundo e sombrio."
+	},
+	{
+		"Filme" : "Star Wars Episode I: The Phantom Menace",
+		"Ano" : "1999",
+		"Duração" : 133,
+		"Sinopse" : "Obi-Wan e seu mentor embarcam em uma perigosa aventura na tentativa de salvar o planeta das garras de Darth Sidious. Durante a viagem, eles conhecem um habilidoso menino e decidem treiná-lo para se tornar um Jedi. Mas o tempo irá revelar que as coisas nem sempre são o que aparentam ser."
+	},
+	{
+		"Filme" : "Wax, or the Discovery of Television Among the Bees",
+		"Ano" : "1991",
+		"Duração" : 85,
+		"Sinopse" : "Blair actua no filme, que apresenta ainda um camafeu de William Burroughs. Como declaração anti-guerra, Wax fez uma crítica antecipada à Guerra do Golfo e à actual guerra de drones. Uma combinação de animação digital inovadora, imagens encontradas, e acção ao vivo, a forma visual de Wax é uma representação única das tecnologias e políticas que ele critica, que ainda hoje reverberam."
+	}
+]

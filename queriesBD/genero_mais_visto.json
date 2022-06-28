@@ -1,0 +1,22 @@
+[
+	{
+		"Género" : "Experimental",
+		"Bilhetes vendidos" : 4
+	},
+	{
+		"Género" : "Ficção científica",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Género" : "Surrealismo",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Género" : "Comédia",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Género" : "Crime",
+		"Bilhetes vendidos" : 3
+	}
+]

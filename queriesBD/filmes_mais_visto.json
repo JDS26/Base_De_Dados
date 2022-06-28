@@ -1,0 +1,38 @@
+[
+	{
+		"Filme" : "Matrix",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Filme" : "La Casa Lobo",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Filme" : "Ilha do Medo",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Filme" : "Wax, or the Discovery of Television Among the Bees",
+		"Bilhetes vendidos" : 1
+	},
+	{
+		"Filme" : "Center Jenny",
+		"Bilhetes vendidos" : 1
+	},
+	{
+		"Filme" : "O Regresso de Johnny English",
+		"Bilhetes vendidos" : 1
+	},
+	{
+		"Filme" : "Shrek",
+		"Bilhetes vendidos" : 1
+	},
+	{
+		"Filme" : "A Ressaca",
+		"Bilhetes vendidos" : 1
+	},
+	{
+		"Filme" : "El Camino: Um Filme de Breaking Bad",
+		"Bilhetes vendidos" : 1
+	}
+]

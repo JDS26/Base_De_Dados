@@ -1,0 +1,74 @@
+[
+	{
+		"Realizador" : "Vicky Jenson",
+		"Bilhetes vendidos" : 5
+	},
+	{
+		"Realizador" : "Todd Phillips",
+		"Bilhetes vendidos" : 4
+	},
+	{
+		"Realizador" : "Lilly Wachowski",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "Joaquín Cociña",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "Cristobal León",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "David Blair",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "Ryan Trecartin",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "Oliver Parker",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "Martin Scorsese",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "Vince Gilligan",
+		"Bilhetes vendidos" : 3
+	},
+	{
+		"Realizador" : "George Lucas",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Realizador" : "Jon Favreu",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Realizador" : "Hans-Bruno Kammertons",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Realizador" : "Charles Ferguson",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Realizador" : "Don Hertzfeldt",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Realizador" : "Alejandro Jodorowsky",
+		"Bilhetes vendidos" : 2
+	},
+	{
+		"Realizador" : "Bryan Fogel",
+		"Bilhetes vendidos" : 1
+	},
+	{
+		"Realizador" : "Antoine Fuqua",
+		"Bilhetes vendidos" : 1
+	}
+]
